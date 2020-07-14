@@ -1,0 +1,20 @@
+﻿{
+    "Name": "Retrainer",
+    "Version": "2.0.0",
+    "Enabled": true,
+
+    "DLL": "Retrainer.dll",
+    "Settings": {
+        "Cost": 500000,
+        "OnceOnly": false,
+        "TrainingModuleRequired": false,
+
+        "RespecCausesInjury": true,
+        "MedtechPerExperience": 0.0025,
+        "VariableCreditsCost": true,
+        "CreditsPerExperience": 10.0,
+
+        "Debug": true,
+        "DebugVerbose": false
+    }
+}
